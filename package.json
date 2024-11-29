@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "tsc-watch": "tsc --watch"
+  },
+  "name": "delcarando-tipos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
